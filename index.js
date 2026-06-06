@@ -1,1 +1,1 @@
-console.log("Welcome to the dancing club")
+console.log("Welcome to the playlist")
